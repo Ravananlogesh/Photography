@@ -7,4 +7,4 @@
 
 ## Live Demo
 
-Check out the live demo [here](https://Ravananlogesh.github.io/Login-page/html/Photography.html)
+Check out the live demo [here](https://Ravananlogesh.github.io/Photography/Photography.html)
